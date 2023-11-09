@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Level1 : MonoBehaviour
 {
-    private float _speed = 0;
+    private float _speed = 5;
     
     private void Update()
     {

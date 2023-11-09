@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Level4 : MonoBehaviour
 {
-    public bool UseGravity = true;
-    private float _speed = 5;
+    public bool UseGravity = false;
+    private float _speed = 30;
 
     private void Update()
     {

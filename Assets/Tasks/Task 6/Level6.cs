@@ -9,7 +9,7 @@ public class Level6 : MonoBehaviour
 
     private void Start()
     {
-        Instantiate(_obstacle);
+       // Instantiate(_obstacle);
     }
 
     private void Update()

@@ -6,7 +6,7 @@ public class Level5 : MonoBehaviour
 
     private void Start()
     {
-        Destroy(gameObject);
+        //Destroy(gameObject);
     }
 
     private void Update()
